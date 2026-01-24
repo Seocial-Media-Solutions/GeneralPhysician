@@ -225,6 +225,13 @@ export default async function sitemap() {
       changeFrequency: "weekly",
       priority: 0.9,
     },
+
+    {
+      url: `${URL}/blog/mental-brain-disorders-myths-facts-treatment-ajmer-dr-manish-sharma`,
+      lastModified: currentDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
     // Contact & Consultation Pages
     {
       url: `${URL}/contact`,
