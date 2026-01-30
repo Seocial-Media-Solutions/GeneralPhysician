@@ -232,6 +232,13 @@ export default async function sitemap() {
       changeFrequency: "weekly",
       priority: 0.9,
     },
+    
+    {
+      url: `${URL}/blog/general-health-myths-facts-ajmer-dr-manish-sharma`,
+      lastModified: currentDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
     // Contact & Consultation Pages
     {
       url: `${URL}/contact`,
