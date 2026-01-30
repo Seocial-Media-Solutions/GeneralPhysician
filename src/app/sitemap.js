@@ -234,7 +234,7 @@ export default async function sitemap() {
     },
 
     {
-      url: `${URL}/blog/best-general-physician-ajmer-dr-manish-sharma`,
+      url: `${URL}/blog/best-doctor-ajmer-diabetes-bp-chronic-disease-management`,
       lastModified: currentDate,
       changeFrequency: "weekly",
       priority: 0.9,
